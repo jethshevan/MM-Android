@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.MerchMercato" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Override to force light theme even in dark mode -->
+    </style>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942187211613",
+    "project_id": "merchmercato",
+    "storage_bucket": "merchmercato.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942187211613:android:653f80e7d0170200ead6b4",
+        "android_client_info": {
+          "package_name": "com.example.merchmercato"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIVD99vUelHb6TosWXugF7bSqLjsblgHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
